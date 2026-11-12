@@ -1,0 +1,27 @@
+[
+  {
+    "FirstName": "Bugs",
+    "LastName": "Bunny",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Foghorn",
+    "LastName": "Leghorn",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Elmer",
+    "LastName": "Fudd",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Road",
+    "LastName": "Runner",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Micky",
+    "LastName": "Mouse",
+    "CourseName": "Python 100"
+  }
+]
